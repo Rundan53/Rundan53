@@ -50,7 +50,7 @@ A web application that helps users track their daily expenses and manage finance
 
 - **Email**: [rundanonkar1999@gmail.com](mailto:rundanonkar1999@gmail.com)
 - **GitHub**: [github.com/Rundan53](https://github.com/Rundan53)
-- **LinkedIn**: [linkedin.com/in/rundan53](https://linkedin.com/in/rundan53)
+- **LinkedIn**: [www.linkedin.com/in/rundan-onkar-b2a133307)
 
 ---
 
